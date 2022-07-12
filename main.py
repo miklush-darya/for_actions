@@ -9,5 +9,6 @@ if not number:
     logger.warning('ERROR!')
 
 else:
-    num = list(map(int, number.split(',')))
-    logger.warning('SUM', sum(num))
+    # num = list(map(int, number.split(',')))
+    # logger.warning('SUM', sum(num))
+    logger.warning('GREAT')
